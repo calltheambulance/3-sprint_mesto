@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Vladislav-Filatov/mesto.git"
+    "url": "git+https://github.com/calltheambulance/3-sprint_mesto"
   },
-  "author": "Vladislav Filatov",
+  "author": "calltheambulance",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Vladislav-Filatov/mesto/issues"
+    "url": "https://github.com/calltheambulance/3-sprint_mesto/issues"
   },
-  "homepage": "https://github.com/Vladislav-Filatov/mesto#readme",
+  "homepage": "https://github.com/calltheambulance/mesto#readme",
   "devDependencies": {
     "@babel/core": "^7.26.10",
     "@babel/preset-env": "^7.26.9",
